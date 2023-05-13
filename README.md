@@ -1,4 +1,4 @@
-# Frontend Mentor - Tip Calculator App
+# Frontend Mentor - Tic Tac Toe
 
 ![Design preview for the Password generator app coding challenge](./preview.png)
 
@@ -17,5 +17,5 @@ Author
 
 Live server
 
-- https://ralfislask.github.io/Tip-calculator/
+- 
 
