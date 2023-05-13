@@ -268,10 +268,6 @@ const checkWinner = (player, win) => {
     }
 }
 
-setInterval(() => {console.log("player1:", player1)}, 3000)
-setInterval(() => {console.log("playertext:", playerText)}, 3000)
-setInterval(() => {console.log("startRound:", startRound)}, 3000)
-
 const generateRandomNumbers = () => {
     randomNumber = Math.floor(Math.random() * 9);
     if(maxLength >= 8) {
